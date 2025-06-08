@@ -15,7 +15,6 @@ TERMINAL ASSESSMENT AND MILESTONES
 
 In groups, the learners will work on a project that analyzes and resolves an issue encountered by FinMark Corporation using machine learning and predictive analytics. The terminal assessment nurtures the learners' technical, analytical, and presentation skills, vital for fostering proficiency in machine learning and predictive analytics. The learners are prepared to complete this output through the following milestones:
 
-Milestone 1: Project Predictive Model -  a machine learning model to predict a customer's purchasing likelihood using the provided datasets.
-Milestone 2: Project Forecasting Model with Visualizations - a machine learning model that forecasts the FinMark Corporation sales using historical data.
-
-Terminal Assessment: Project Presentation - a presentation of the course project created, data analysis performed, and the results obtained.
+- Milestone 1: Project Predictive Model -  a machine learning model to predict a customer's purchasing likelihood using the provided datasets.
+- Milestone 2: Project Forecasting Model with Visualizations - a machine learning model that forecasts the FinMark Corporation sales using historical data.
+- Terminal Assessment: Project Presentation - a presentation of the course project created, data analysis performed, and the results obtained.
