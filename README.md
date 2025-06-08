@@ -17,4 +17,5 @@ In groups, the learners will work on a project that analyzes and resolves an iss
 
 Milestone 1: Project Predictive Model -  a machine learning model to predict a customer's purchasing likelihood using the provided datasets.
 Milestone 2: Project Forecasting Model with Visualizations - a machine learning model that forecasts the FinMark Corporation sales using historical data.
+
 Terminal Assessment: Project Presentation - a presentation of the course project created, data analysis performed, and the results obtained.
